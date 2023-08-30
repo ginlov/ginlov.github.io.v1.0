@@ -1,5 +1,6 @@
 build:
   docker-compose build
+  docker system prune -f
 
 stop:
   docker-compose down || true
