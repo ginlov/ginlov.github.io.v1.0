@@ -6,7 +6,11 @@ subtitle: [
   {
     title: "Research Assistant" ,
     org: "Data Science Lab, HUST"
-  }
+  },
+  {
+      title: "Data Application Engineer",
+      org: "Viettel Group"
+    }
   ]
 
 profile:
