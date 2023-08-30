@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: GinlovTheorem
+permalink: /ginlovtheorem/
+description: Journeys, experiences and thoughts.
 nav: true
-nav_order: 2
-display_categories: [work, fun]
+nav_order: 1
+display_categories: []
 horizontal: false
 ---
 
